@@ -15,7 +15,7 @@ This code relates to the project titled "Ultra‐processed foods, adiposity and 
 ## Main and secondary analyses:
 
 02-Cox_regressions_N4.R         
-> **_This file also includes sensitivity analysis in g/d_**
+> **_This file also includes sensitivity analyses in g/d_**
 
 ## Mediation analysis:
 
