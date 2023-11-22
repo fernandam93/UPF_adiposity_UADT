@@ -4,7 +4,7 @@ This code relates to the project titled "Ultra‐processed foods, adiposity and 
 
 ## Data management:
 
-**First, we created a new dataset including the variables that would be required in all the analyses to avoid having to create the same variables multiple times.
+**First, we created a new dataset including the variables that would be required in all the analyses to avoid having to create the same variables multiple times.**
 
 00-data_management.R
 
@@ -32,4 +32,4 @@ This code relates to the project titled "Ultra‐processed foods, adiposity and 
 11-Cox_regressions_Nall_deaths.R
 
 
-**NOTE: I will upload the rest of the files ASAP.
+**NOTE: I will upload the rest of the files ASAP.**
