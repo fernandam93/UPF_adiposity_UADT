@@ -6,7 +6,7 @@ This code relates to the project titled "Ultra‐processed foods, adiposity and 
 
 **First, we created a new dataset including the variables that would be required in all the analyses to avoid having to create the same variables multiple times.
 
-0-data_management.R
+00-data_management.R
 
 ## Descriptive characteristics:
 
