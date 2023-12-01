@@ -39,5 +39,12 @@ This code relates to the project titled "Ultra‐processed foods, adiposity and 
 
 11-Cox_regressions_Nall_deaths.R
 
+## Forest plots:
+
+12-main_forest_plots_onlyN4.R
+
+13-subtypes_forest_plots_onlyN4.R
+
+14-main_forest_plots_sensitivity_kcal_g_relANDabs_onlyN4.R
 
 **NOTE: I will upload the rest of the files ASAP.**
