@@ -51,7 +51,28 @@ This code relates to the project titled "Ultra‐processed foods, adiposity and 
 
 15-subtypes_heterogeneity.R
 
+## Interactions and stratified analyses:
 
+16-Interactions_alc_AC.R
 
+17-Interactions_alc_HNC.R
 
-**NOTE: I will upload the rest of the files ASAP.**
+18-Interactions_education_AC.R
+
+19-Interactions_education_HNC.R
+
+20-Interactions_PA_AC.R
+
+21-Interactions_PA_HNC.R
+
+22-Interactions_sex_AC.R
+
+23-Interactions_sex_HNC.R
+
+24-Interactions_smoking_AC.R
+
+25-Interactions_smoking_HNC.R
+
+## Assumptions:
+
+26-assumptions.R
