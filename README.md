@@ -47,4 +47,11 @@ This code relates to the project titled "Ultra‐processed foods, adiposity and 
 
 14-main_forest_plots_sensitivity_kcal_g_relANDabs_onlyN4.R
 
+## Subtype heterogeneity analysis:
+
+15-subtypes_heterogeneity.R
+
+
+
+
 **NOTE: I will upload the rest of the files ASAP.**
